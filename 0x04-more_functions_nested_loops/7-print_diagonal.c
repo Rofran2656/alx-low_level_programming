@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - a function that draws a diagonal line on the terminal
- * @n: thwe number of times to print the diagonal lines
+ * @n: the number of times to print the diagonal lines
  * Return: empty
  */
 
