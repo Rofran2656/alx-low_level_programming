@@ -4,7 +4,7 @@
  * wildcmp - Compares two strings
  * @s1: points to string parameters
  * @s2: points to string parameters
- * the special char * can replace a string 
+ * the special char * can replace a string
  * Return: 1 or 0
  */
 
